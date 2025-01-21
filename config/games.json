@@ -12,12 +12,6 @@
     "new": false
   },
   {
-    "name": "10 Minutes Till Dawn",
-    "image": "splash.png",
-    "url": "10-minutes-till-dawn",
-    "new": false
-  },
-  {
     "name": "100ng",
     "image": "100ng.jpg",
     "url": "100ng",
@@ -54,21 +48,9 @@
     "new": false
   },
   {
-    "name": "Offline Paradise",
-    "image": "assets/icon.jpeg",
-    "url": "OfflineParadise",
-    "new": false
-  },
-  {
     "name": "Stickman Survival",
     "image": "Icon.png",
     "url": "Stickman-Survival",
-    "new": false
-  },
-  {
-    "name": "A Dance of Fire and Ice",
-    "image": "splash.png",
-    "url": "a-dance-of-fire-and-ice",
     "new": false
   },
   {
@@ -81,12 +63,6 @@
     "name": "A Dark Room",
     "image": "splash.png",
     "url": "adarkroom",
-    "new": false
-  },
-  {
-    "name": "Adrenaline Challenge",
-    "image": "adrenalinechallenge.jpg",
-    "url": "adrenalinechallenge",
     "new": false
   },
   {
@@ -117,12 +93,6 @@
     "name": "Amidst the Clouds",
     "image": "splash.png",
     "url": "amidst-the-clouds",
-    "new": false
-  },
-  {
-    "name": "Among Us",
-    "image": "red.png",
-    "url": "among-us",
     "new": false
   },
   {
