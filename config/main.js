@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "games.harljo.uk"; // Change this to change the name of your website.
-var subtext = "v1"; // set the subtext
+var sitename = "Games"; // Change this to change the name of your website.
+var subtext = "A collection of games hosted by harley"; // set the subtext
 
 // more settings in main.css
 
@@ -9,8 +9,6 @@ var subtext = "v1"; // set the subtext
 
 // END CONFIG
 // DO NOT MODIFY IF YOU DO NOT KNOW WHAT YOUR DOING!
-
-import "/./config/custom.js";
 
 var serverUrl1 = "https://gms.parcoil.com";
 var currentPageTitle = document.title;
